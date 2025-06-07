@@ -22,7 +22,7 @@ repository               : "xdshen-ai/xdshen-ai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "life_pic.png"
   name             : "Xudong Shen"
   pronouns         : # example: "she/her"  
   bio              : "华南理工大学 软件学院 本科生"
