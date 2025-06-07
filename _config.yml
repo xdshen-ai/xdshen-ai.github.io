@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xudong Shen / Site Title"
+title                    : "Xudong Shen's Homepage"
 title_separator          : "-"
 name                     : &name "Xudong Shen"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Xudong Shen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "华南理工大学 软件学院 本科生"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
