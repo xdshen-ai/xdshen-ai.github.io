@@ -3,7 +3,7 @@ title: "CODEMENV: Benchmarking Large Language Models on Code Migration"
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is accepted by ACL-2025 Findings!'
 #date: 2009-10-01
 venue: 'Conferences 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
