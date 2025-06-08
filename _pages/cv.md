@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV here: [Xudong's Curriculum Vitae](../assets/Resume.pdf).
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
