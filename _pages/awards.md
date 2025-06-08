@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-***\*National Scholarship\****, 2024   
+**National Scholarship**, 2024   
 
 First Prize, 15th National Undergraduate Mathematics Competition (Guangdong Province), 2023   
 
